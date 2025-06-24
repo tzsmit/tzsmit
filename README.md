@@ -1,6 +1,6 @@
 # 👋 Welcome to Traivone's GitHub!
 
-Hi, I'm **Traivone Smith**, a cybersecurity and cloud enthusiast on a focused journey to specialize in **Cloud Security** and **Industrial Cybersecurity**. With a strong foundation in networking, ethical hacking, and industrial systems, I aim to secure modern infrastructures across cloud and operational environments. I’m currently pursuing a **Bachelor of Science in Computer Science** at Southern New Hampshire University and preparing for the **Security+ 701 certification**.
+Hi, I'm **Traivone Smith**, a cybersecurity and cloud enthusiast on a focused journey to specialize in **Cloud Security** and **Industrial Cybersecurity**. With a strong foundation in networking, ethical hacking, and industrial systems, I aim to secure modern infrastructures across cloud and operational environments. I’m currently pursuing a **Bachelor of Science in Computer Science** at Southern New Hampshire University with a specialization in **Information Security**.
 
 ---
 
