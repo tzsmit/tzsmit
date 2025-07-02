@@ -1,41 +1,63 @@
-# 👋 Welcome to Traivone's GitHub!
+# 👋 Welcome to Traivone's GitHub
 
-Hi, I'm **Traivone Smith**, a cybersecurity and cloud enthusiast on a focused journey to specialize in **Cloud Security** and **Industrial Cybersecurity**. With a strong foundation in networking, ethical hacking, and industrial systems, I aim to secure modern infrastructures across cloud and operational environments. I’m currently pursuing a **Bachelor of Science in Computer Science** at Southern New Hampshire University with a specialization in **Information Security**.
+Hi, I'm **Traivone Smith** — a cybersecurity and cloud enthusiast focused on **Cloud Security** and **Industrial (OT/ICS) Cybersecurity**. I’m building a portfolio of practical, hands-on security projects that bridge the gap between modern cloud infrastructure and operational technology environments.
+
+Currently pursuing a **B.S. in Computer Science with a concentration in Information Security** at Southern New Hampshire University. My mission is to secure critical systems — from cloud workloads to industrial networks — using a defensive, automation-first mindset.
 
 ---
 
 ## 🔭 What I'm Working On
-- **Cloud Security Projects**: Designing and hardening AWS-based infrastructures, focusing on IAM, threat detection, and secure configurations.
-- **Industrial Systems & OT Security**: Simulating Modbus/CODESYS environments to study vulnerabilities in SCADA/ICS protocols.
-- **DevSecOps Integration**: Automating security testing and logging for cloud-native applications using open-source tools.
-- **Portfolio Development**: Building consistent, cloud-focused security projects and documenting everything in GitHub and Notion.
+
+- 🌐 **Cloud Security Projects**: Designing and hardening AWS infrastructures (IAM, GuardDuty, CloudTrail, secure S3, Lambda).
+- 🏭 **Industrial/OT Security Simulations**: Simulating SCADA/ICS environments with vulnerable Modbus/CODESYS systems.
+- 🛠️ **DevSecOps & Logging Pipelines**: Integrating security into CI/CD and building log-driven detection tools (SIEM-style dashboards).
+- 🧪 **Portfolio Development**: Publishing structured, themed projects under my "Cloud + ICS Cyber Lab" series with full documentation.
 
 ---
 
-## 💡 Skills and Tools
+## 💡 Skills & Tools
 
 ### ☁️ Cloud Platforms & Infrastructure
-- **Platforms**: AWS (primary), Azure (secondary), GCP (light)
+
+- **Primary Platforms**: AWS (main), Azure (secondary), GCP (light use)
 - **Tools**: Terraform, AWS CLI, Docker, Serverless Framework
-- **Services**: EC2, IAM, S3, CloudTrail, Lambda, GuardDuty, CloudWatch
+- **Services**: EC2, IAM, S3, Lambda, CloudTrail, CloudWatch, GuardDuty
 
 ### 🔐 Cybersecurity & OT Security
-- **Focus Areas**: IAM, misconfiguration analysis, cloud logging, MITRE ATT&CK for ICS
-- **Tools**: Wireshark, Nmap, Burp Suite, Suricata, ELK Stack, AWS Inspector
-- **Protocols**: Modbus, MQTT, HTTP(S), TCP/IP stack
 
-### 🧰 Programming & Scripting
+- **Domains**: IAM, misconfig analysis, detection engineering, OT protocol hardening
+- **Security Tools**: Wireshark, Nmap, Burp Suite, Suricata, ELK Stack, AWS Inspector
+- **ICS/OT Protocols**: Modbus, MQTT, TCP/IP, SCADA frameworks
+
+### 🧰 Programming & Automation
+
 - **Languages**: Python, Bash, YAML
-- **Frameworks**: Flask, FastAPI (for internal dashboards and APIs)
-- **DevSecOps**: CI/CD with security scanning integrations
+- **Frameworks**: Flask, FastAPI (for dashboards and local tools)
+- **DevSecOps**: CI/CD pipelines with security scanning integrations
 
 ---
 
 ## 🚀 Current Goals
-- Launch a fully documented cloud + ICS security project series.
-- Pass the **Security+ 701** and pursue AWS Security Specialty certification.
-- Build a portfolio that reflects real-world expertise in **Cloud + Industrial Security**.
+
+- ✅ Complete my **Cloud + ICS Cybersecurity** project series
+- 📜 Pass the **Security+ 701** and pursue **AWS Security Specialty**
+- 🧰 Build a trusted, real-world **portfolio** of practical security tools
+- 🧠 Contribute to educational content and open-source security tooling
 
 ---
 
-📌 *This README will be updated as I complete projects and refine my skills. Stay tuned!*
+## 📂 Featured Project
+
+Check out [`netmon01`](https://github.com/tzsmit/netmon01) — a Python-based packet sniffer and log analysis tool built for home/ICS environments. It’s part of my real-world industrial cyber defense toolkit.
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: [@tzsmit](https://github.com/tzsmit)
+- Portfolio: [novatitan.net](https://novatitan.net)
+- Email: `traivonesmith@novatiitan.net` (for professional inquiries)
+
+---
+
+🛡️ _Always learning, always building_ — thanks for visiting!
